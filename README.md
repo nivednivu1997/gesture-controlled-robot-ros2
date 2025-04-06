@@ -29,7 +29,7 @@ This project demonstrates a gesture-controlled robot in a simulation environment
 ## Steps to run
 
 
-```
+
 1. Clone the repo 
 ```
 git clone https://github.com/nivednivu1997/gesture-controlled-robot-ros2.git
