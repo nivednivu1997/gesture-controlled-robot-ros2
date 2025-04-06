@@ -6,7 +6,7 @@
 
 This project demonstrates a gesture-controlled robot in a simulation environment using Ignition Gazebo and ROS 2. An IMU (Inertial Measurement Unit) connected via Arduino Nano captures hand gestures to control the robot's movement in the simulation.The robot is controlled using hand gestures detected by the IMU sensor. The IMU is mounted on the user's hand and connected to the Arduino Nano, which sends orientation data (yaw and pitch) to the PC via USB. A Python script reads the data and sends velocity commands to control the robot in Ignition Gazebo through ROS 2.
 
-🎥 [**Watch the Demonstration**](https://drive.google.com/file/d/1Emu8EpixYeHzUSP-oKnuVpvai1Fv_Ksk/view?usp=sharing)
+🎥 [**Watch the Demonstration**](https://github.com/user-attachments/assets/8a22f446-d7ac-4203-89e8-5274a2cc513e)
 
 ## 🧩 Components Used
 
